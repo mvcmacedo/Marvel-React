@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Captura de Tela 2019-03-17 às 22 58 21](https://user-images.githubusercontent.com/35876450/54502811-473a9400-490b-11e9-85a3-420a7d5e5543.png)
 
 ## Documentation
-https://developer.marvel.com/docs#!/public/getCreatorCollection_get_0
+https://developer.marvel.com/docs
 
 ## Available Scripts
 
